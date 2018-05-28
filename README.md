@@ -16,15 +16,15 @@ pozdro
 
 - st_dialogs_escape.xml
 
-- st_dialogs_garbage.xml
+- st_dialogs_garbage.xml - **skończone**
 
 - st_dialogs_jupiter.xml
 
-- st_dialogs_katacomb.xml
+- st_dialogs_katacomb.xml - **skończone**
 
 - st_dialogs_marsh.xml
 
-- st_dialogs_pripyat.xml
+- st_dialogs_pripyat.xml - **skończone**
 
 - st_dialogs_redforest.xml
 
@@ -54,7 +54,7 @@ pozdro
 
 - st_items_outfit.xml
 
-- st_items_patches.xml
+- st_items_patches.xml - **skończone**
 
 - st_items_quest.xml
 
@@ -62,7 +62,7 @@ pozdro
 
 - st_items_weapons_upgrades.xml
 
-- st_itm_minimod.xml
+- st_itm_minimod.xml - **skończone** 
 
 - st_land_names.xml
 
@@ -92,15 +92,15 @@ pozdro
 
 - st_quests_military.xml
 
-- st_quests_pripyat.xml
+- st_quests_pripyat.xml - **skończone**
 
 - st_quests_pripyat2.xml
 
-- st_quests_radar.xml
+- st_quests_radar.xml - **skończone**
 
-- st_quests_sarcofag.xml
+- st_quests_sarcofag.xml - **skończone**
 
-- st_quests_warlab.xml
+- st_quests_warlab.xml - **skończone**
 
 - st_quests_yantar.xml
 
@@ -110,9 +110,9 @@ pozdro
 
 - ui_st_credits.xml
 
-- ui_st_encyclopedia.xml
+- ui_st_encyclopedia.xml - **skończone**
 
-- ui_st_encyclopedia_features.xml
+- ui_st_encyclopedia_features.xml - **skończone**
 
 - ui_st_faction_select.xml
 
