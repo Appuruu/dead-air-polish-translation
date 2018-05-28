@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="sar_monolith">
+		<text>Zew Monolitu</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Porozmawiaj ze Spelniaczem Zyczen</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Uslyszalem zew. Zew z centrum Zony. Musze sie tam dostac i odnalezc jego zrodlo.I heard the call.</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>Glos mnie wzywa. To musi byc Spelniacz Zyczen. Musi znajdowac sie gdzies pod Sarkofagiem. Musze go znalezc.</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>Betonowy grobowiec</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Musisz znalezc glowna baze Monolitu, ktora jest wspomniana w dokumentach, i dowiedziec sie, co Monolit probuje tam ukryc.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Zniszcz Monolit: zniszcz 10 fal psi-projekcji stworzonych przez Monolit.</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>Wylacz generatory, ktore zapewniaja dzialanie autoklaw Swiadomosci-Z.</text>
+	</string>
+		<string id="sar_monolith_destroy_3">
+		<text>Wylacz generatory.</text>
+	</string>
+</string_table>

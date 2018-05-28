@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="gar_bar_leader_gate_dialog_actor0">
+		<text>Czy moge dostac sie do Baru?</text>
+	</string>
+
+	<string id="gar_bar_leader_gate_dialog_text01">
+		<text>Czemu nie? Oczywiscie ze mozesz… za wklad w ochrone tego obszaru. Droga do Baru jest w tym momencie bezpieczna i jest ona bezpieczna tylko dzieki regularnym patrolom Powinnosci, a takze dzieki surowym kontrolom ludzi przechodzacych przez punkt kontrolny. Jesli rzeczywiscie masz byc kims, kto nie przysporzy problemow, to musimy to zweryfikowac.</text>
+	</string>
+
+
+	<string id="gar_bar_leader_gate_dialog_actor011">
+		<text>Musze wam teraz placic za kazdym razem…? Ile?</text>
+	</string>
+
+	<string id="gar_bar_leader_gate_dialog_text0111">
+		<text>Ale niby dlaczego kazdym razem? Nie jestesmy rabusiami, ktorzy chca haraczu za kazde marne przejscie. Wklad w ochrone wynosi piec tysiecy rubli. Nie przejmuj sie tym, ze czasami zapominamy o czyms takim. Kilku ludzi bedzie patrzec na Ciebie przez celowniki uwaznie badajac i zapamietujac kazdy Twoj ruch. Ciezkie czasy, sytuacja jest napieta, wladze zle, a ludzie nerwowi i glodni…</text>
+	</string>
+
+	<string id="gar_bar_leader_gate_dialog_actor01111">
+		<text>Przekonales mnie. Masz, oto moj "wklad".</text>
+	</string>
+
+	<string id="gar_bar_leader_gate_dialog_text011111">
+		<text>Dziekuje, stalkerze. Widze, ze jestes godnym podziwu czlowiekiem. Droga przed Toba jest otwarta, mozesz przejsc!</text>
+	</string>
+
+	<string id="gar_bar_leader_gate_dialog_actor01112">
+		<text>Nie mam teraz pieniedzy, i nie ma opcji, ze jakakolwiek bym wam dal.</text>
+	</string>
+
+	<string id="gar_bar_leader_gate_dialog_text011121">
+		<text>To juz jest Twoja decyzja, stalkerze. Nie mam zamiaru znosic oplaty z Twojego powodu.</text>
+	</string>
+</string_table>

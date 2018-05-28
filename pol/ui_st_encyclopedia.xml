@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Przewodnik</text>
+	</string>
+
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Pokaz przewodnik</text>
+	</string>
+
+	<string id="pda_encyclopedia_title">
+		<text>Przewodnik po Zonie</text>
+	</string>
+
+	<string id="pda_encyclopedia_image_checkbox">
+		<text>Zdjecia u gory</text>
+	</string>
+
+	<string id="pda_encyclopedia_locked">
+		<text>
+			Nie odblokowales jeszcze tego artykulu.\n
+			\nArtykuly moga zostac odblokowane w dany sposob:\n
+			\n• Pobieranie informacji z pamieci USB.
+		</text>
+	</string>
+</string_table>

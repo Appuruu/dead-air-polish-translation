@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- FIND AND ENTER THE WARLAB -->
+	<string id="sar_perception">
+		<text>Droga na Polnoc</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Dowiedz sie kto lub co stoi za Monolitem.</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Odnajdz sekretne laboratorium wspomniane w dokumentach i dowiedz sie, co jest w nim schowane.</text>
+	</string>
+	<string id="sar_perception_3">
+		<text>Otworz drzwi za pomoca dekodera.</text>
+	</string>
+	<string id="sar_perception_4">
+		<text>Zabij straznikow i dostan sie do pomieszczenia.</text>
+	</string>
+	<string id="sar_perception_5">
+		<text>Dowiedz sie z dokumentow, jaki jest kod dostepu.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_title">
+		<text>Uporaj sie z nieznanym stworzeniem.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_1">
+		<text>Porozmawiaj ze Stworzeniem.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_2">
+		<text>Zniszcz wszystkie trzy fizyczne formy Stworzenia, aby otworzyc drzwi.</text>
+	</string>
+</string_table>

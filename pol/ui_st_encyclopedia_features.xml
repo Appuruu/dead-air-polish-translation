@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="encyclopedia_personae">
+		<text>Postacie</text>
+	</string>
+
+
+	<string id="encyclopedia_personae_comms">
+		<text>Frakcje</text>
+	</string>
+
+	<string id="encyclopedia_personae_leaders">
+		<text>Liderzy frakcji</text>
+	</string>
+
+	<string id="encyclopedia_personae_traders">
+		<text>Handlarze</text>
+	</string>
+
+	<string id="encyclopedia_personae_medics">
+		<text>Medycy</text>
+	</string>
+
+	<string id="encyclopedia_personae_techs">
+		<text>Technicy</text>
+	</string>
+
+
+	<string id="encyclopedia_equipement">
+		<text>Ekwipunek</text>
+	</string>
+
+	<string id="encyclopedia_mutants">
+		<text>Mutanty</text>
+	</string>
+
+	<string id="encyclopedia_survival">
+		<text>Przetrwanie</text>
+	</string>
+
+	<string id="encyclopedia_hunting">
+		<text>Polowanie</text>
+	</string>
+</string_table>
